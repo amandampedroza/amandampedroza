@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">📕3/8 Computer Science - SPTech<br>💻 Back-end Developer - PwC 🟧</h4>
+<h4 align="left">3/8 Computer Science - SPTech</h4>
 
 ###
 
